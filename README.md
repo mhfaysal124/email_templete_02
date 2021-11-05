@@ -1,2 +1,2 @@
-# email_templete_02
-email_templete_02
+Email templete
+Live link: https://mhfaysal124.github.io/email_templete_02/
